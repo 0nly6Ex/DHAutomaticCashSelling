@@ -3,8 +3,8 @@ What you will need to run this -
 -A node.js web server (API)
 -A VPS with Python3
 
-Run the files in the backend on your node webserver, and replace the COOKIEHERE with your .ROBLOSECURITY COOKIE - https://roblox.fandom.com/wiki/.ROBLOSECURITY
-Replace UNIVERSE ID here with your place's universe id (where the robux goes) - https://devforum.roblox.com/t/how-do-i-get-universeid-from-placeid-roblox-api/780807
+Run the files in the backend on your node webserver, and replace the COOKIEHERE (line 24) with your .ROBLOSECURITY COOKIE - https://roblox.fandom.com/wiki/.ROBLOSECURITY
+Replace UNIVERSE ID here with your place's universe id (where the robux goes) (line 30) - https://devforum.roblox.com/t/how-do-i-get-universeid-from-placeid-roblox-api/780807
 Publish it and copy web url
 
 Open the Python bot, and replace the api.dahood.cash with your webservers weburl.
